@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "888801151790",
+    "firebase_url": "https://adhd-for-parents.firebaseio.com",
+    "project_id": "adhd-for-parents",
+    "storage_bucket": "adhd-for-parents.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888801151790:android:32cea34fb3c02d2ffd48bf",
+        "android_client_info": {
+          "package_name": "com.example.adhdforparent2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888801151790-tj3fm4cpisht3lohf1ii6tr8tp836nif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adhdforparent2",
+            "certificate_hash": "1f34657fbfd0037a289e6b0844f1f8a0a247818b"
+          }
+        },
+        {
+          "client_id": "888801151790-6fbuh01e5ht3f23mkvmrt0k608fpog0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJgtw50Xu3qdU5ys8lgQryArCN5qKf8wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888801151790-6fbuh01e5ht3f23mkvmrt0k608fpog0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
